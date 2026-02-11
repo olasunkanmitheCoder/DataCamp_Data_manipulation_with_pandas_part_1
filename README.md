@@ -4,5 +4,5 @@ individuals part of a family with children. The state_pop column is the state's 
 
 
 
-##Insight drawn
-The insight drawn is that District of Columbia, Hawaii and California have the highest individuals with homelessness while for family members with homelessness District of Columbia, New York and Hawaii has the top numbers
+##Insight
+District of Columbia, Hawaii and California have the highest individuals with homelessness while for family members with homelessness District of Columbia, New York and Hawaii has the top numbers
